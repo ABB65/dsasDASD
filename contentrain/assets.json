@@ -63,5 +63,18 @@
       },
       "createdAt": "2023-11-30T12:56:01.368Z"
     }
+  },
+  {
+    "path": "components/1701348980315_nataliya-melnychuk-uKgMsFabeoI-unsplash.jpg",
+    "mimetype": "image/jpeg",
+    "size": 66885,
+    "meta": {
+      "user": {
+        "name": "Ahmet Bayhan BAYRAMOĞLU",
+        "email": "bayhanbayramoglu@gmail.com",
+        "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKbAt7GYk5rN820qrssQowXnPEYKNkmgLC-kv4QjI54etc=s96-c"
+      },
+      "createdAt": "2023-11-30T12:56:21.999Z"
+    }
   }
 ]
