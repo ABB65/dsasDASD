@@ -1,0 +1,11 @@
+[
+  {
+    "name": "dsadas",
+    "fieldId": "dsadas",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "test-model",
+    "fieldType": "string"
+  }
+]
