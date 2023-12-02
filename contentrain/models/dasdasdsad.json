@@ -7,5 +7,14 @@
     "componentId": "integer",
     "modelId": "dasdasdsad",
     "fieldType": "number"
+  },
+  {
+    "name": "fdsfdfsdf",
+    "fieldId": "fdsfdfsdf",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "dasdasdsad",
+    "fieldType": "string"
   }
 ]
