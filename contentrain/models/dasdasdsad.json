@@ -16,5 +16,14 @@
     "componentId": "single-line-text",
     "modelId": "dasdasdsad",
     "fieldType": "string"
+  },
+  {
+    "name": "esasdfasf",
+    "fieldId": "esasdfasf",
+    "validations": {},
+    "options": {},
+    "componentId": "single-line-text",
+    "modelId": "dasdasdsad",
+    "fieldType": "string"
   }
 ]
