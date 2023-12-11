@@ -12,5 +12,12 @@
     "localization": true,
     "type": "JSON",
     "createdBy": "user"
+  },
+  {
+    "name": "Urun",
+    "modelId": "urun",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "user"
   }
 ]
