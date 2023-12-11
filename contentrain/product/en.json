@@ -6,5 +6,13 @@
     "createdAt": "2023-12-11T08:59:31.197Z",
     "updatedAt": "2023-12-11T08:59:31.197Z",
     "ID": "347acec8f734"
+  },
+  {
+    "title": "asdfsfds",
+    "price": 123,
+    "status": "draft",
+    "createdAt": "2023-12-11T09:00:08.303Z",
+    "updatedAt": "2023-12-11T09:00:08.303Z",
+    "ID": "962359d2c5cf"
   }
 ]
