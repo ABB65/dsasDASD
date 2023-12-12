@@ -16,14 +16,5 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
-  },
-  {
-    "name": "gfhfghg",
-    "fieldId": "gfhfghg",
-    "modelId": "product",
-    "componentId": "date",
-    "options": {},
-    "validations": {},
-    "fieldType": "date"
   }
 ]
