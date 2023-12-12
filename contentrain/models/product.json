@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "dyerty",
+    "fieldId": "dyerty",
+    "modelId": "product",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
